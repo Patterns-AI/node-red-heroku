@@ -8,7 +8,7 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "~0.x",
-        "node-red-contrib-admin":"0.x"
+        "node-red-contrib-admin":"0.x",
         "glm-node-modules": "git+https://thiagomb10:HATAhfwqGtyX2jAv88XJ@bitbucket.org/glmconseil/glm-node-red-modules.git",
         "node-red-contrib-modbus": "~3.6.1",
         "node-red-dashboard": "^2.9.4"
